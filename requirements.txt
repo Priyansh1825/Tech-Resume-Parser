@@ -4,3 +4,5 @@ pandas
 numpy
 pdfminer.six
 python-docx
+tensorflow
+sklearn-crfsuite
