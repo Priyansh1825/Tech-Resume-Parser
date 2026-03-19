@@ -1,3 +1,29 @@
+# 1. Virtual Environments (Very large, specific to your PC)
+.venv/
 venv/
+env/
+
+# 2. Python Cache Files (Auto-generated system files)
 __pycache__/
+*.pyc
+*.pyo
+
+# 3. Security / Secrets (KEEP HACKERS OUT)
+# We put your Kaggle API token in this file, so it MUST be ignored!
+download_data.py
+kaggle.json
 .env
+
+# 4. Large Datasets (Too big for GitHub)
+data/raw/
+*.json
+*.spacy
+*.pdf
+*.docx
+
+# 5. Trained Machine Learning Models (Too big for GitHub)
+models/
+
+# 6. OS Generated Files
+.DS_Store
+Thumbs.db

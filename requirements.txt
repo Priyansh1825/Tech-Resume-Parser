@@ -7,3 +7,4 @@ python-docx
 tensorflow
 sklearn-crfsuite
 kaggle
+streamlit
