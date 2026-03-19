@@ -6,3 +6,4 @@ pdfminer.six
 python-docx
 tensorflow
 sklearn-crfsuite
+kaggle
