@@ -22,7 +22,7 @@ data/raw/
 *.docx
 
 # 5. Trained Machine Learning Models (Too big for GitHub)
-models/
+#models/
 
 # 6. OS Generated Files
 .DS_Store
