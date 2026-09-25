@@ -11,3 +11,5 @@ streamlit
 docx2txt
 pytesseract
 Pillow
+
+# streamlit run app.py
